@@ -1,0 +1,1 @@
+cmd_/home/bean/code/drivers/LF331/SOLUTIONS/s_04/lab1_module.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.32-37-generic/scripts/module-common.lds --build-id -o /home/bean/code/drivers/LF331/SOLUTIONS/s_04/lab1_module.ko /home/bean/code/drivers/LF331/SOLUTIONS/s_04/lab1_module.o /home/bean/code/drivers/LF331/SOLUTIONS/s_04/lab1_module.mod.o
