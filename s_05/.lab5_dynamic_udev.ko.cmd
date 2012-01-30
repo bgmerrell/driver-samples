@@ -1,1 +1,0 @@
-cmd_/home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab5_dynamic_udev.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.32-37-generic/scripts/module-common.lds --build-id -o /home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab5_dynamic_udev.ko /home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab5_dynamic_udev.o /home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab5_dynamic_udev.mod.o

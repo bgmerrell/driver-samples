@@ -1,8 +1,0 @@
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab1_char.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab2_priv.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab3_seek.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab4_dynamic.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab5_dynamic_udev.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab5_with_header.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab6_misc.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab6_misc_with_header.ko

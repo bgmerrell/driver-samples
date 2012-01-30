@@ -1,1 +1,0 @@
-cmd_/home/bean/code/drivers/LF331/SOLUTIONS/s_09/lab4_debugfs.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.32-37-generic/scripts/module-common.lds --build-id -o /home/bean/code/drivers/LF331/SOLUTIONS/s_09/lab4_debugfs.ko /home/bean/code/drivers/LF331/SOLUTIONS/s_09/lab4_debugfs.o /home/bean/code/drivers/LF331/SOLUTIONS/s_09/lab4_debugfs.mod.o

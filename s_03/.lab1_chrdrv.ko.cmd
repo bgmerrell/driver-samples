@@ -1,1 +1,0 @@
-cmd_/home/bean/code/drivers/LF331/SOLUTIONS/s_03/lab1_chrdrv.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.32-37-generic/scripts/module-common.lds --build-id -o /home/bean/code/drivers/LF331/SOLUTIONS/s_03/lab1_chrdrv.ko /home/bean/code/drivers/LF331/SOLUTIONS/s_03/lab1_chrdrv.o /home/bean/code/drivers/LF331/SOLUTIONS/s_03/lab1_chrdrv.mod.o

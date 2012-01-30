@@ -1,1 +1,0 @@
-cmd_/home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab4_dynamic.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.32-37-generic/scripts/module-common.lds --build-id -o /home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab4_dynamic.ko /home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab4_dynamic.o /home/bean/code/drivers/LF331/SOLUTIONS/s_05/lab4_dynamic.mod.o

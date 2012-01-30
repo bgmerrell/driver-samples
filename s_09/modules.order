@@ -1,5 +1,0 @@
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_09/lab1_kprobes.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_09/lab2_jprobes.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_09/lab3_chrdrv.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_09/lab3_probe_module.ko
-kernel//home/bean/code/drivers/LF331/SOLUTIONS/s_09/lab4_debugfs.ko
